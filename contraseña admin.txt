@@ -1,0 +1,9 @@
+Perfil Administrador de la página:
+http://127.0.0.1:8000/admin/
+Usuario: Horacio_Admin
+Contraseña: Hola123
+
+
+Para esta aplicación se utiliza el entorno llamado "django3"
+
+---conda acivate django3---
